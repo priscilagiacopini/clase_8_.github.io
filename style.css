@@ -1,0 +1,106 @@
+
+.titulo-importante {
+    font-size: 50px;
+    background-color: red;
+    color: yellow;
+    width: 100%; 
+border: 2px  solid black;
+}
+
+.tabla {
+    width: 100%; 
+height: 120px;
+border: 3px  solid black;
+}
+
+.texto {
+    font-size: 18px;
+}
+
+.lunes {
+    width: 10%;
+background-color: red ;
+color: white;
+font-size: 20px;
+}
+
+.dias {
+    background-color:red ;
+    font-weight: bold;
+    font-size: 20px;
+    }
+
+    .horarios {
+        font-style: italic;
+        background-color: white;
+        font-size: 17,5px;
+    }
+
+.hora {
+    background-color: white;
+        color: red;
+        font-size: 17,5px;
+}
+
+.body {
+background-color:  rgb(243, 101, 101);
+}
+
+.header {
+width: 100%; 
+}
+
+
+
+.nombre-de-la-pagina {
+    text-align: center;
+}
+
+.li {
+    color: black;
+}
+
+.footer {
+    padding: 10px;
+    text-align: center;
+    margin-top: auto;
+    background-color: rgb(240, 248, 123);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%; 
+    height: 20px;
+    position: absolute; 
+    display: block;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    background-color: red;
+}
+
+ul li {
+    margin: 10px;
+    padding: 10px;
+}
+/*terminar los estilos*/
+
+
+.my-wrapper-carousel {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.footer-promo {
+    width: 100%;
+    background-color:white;
+    color: black;
+    text-align: center;
+    align-self: flex-end; 
+}
